@@ -10,7 +10,7 @@ This is the code repository for [Data Engineering with Google Cloud Platform](ht
 
   
 ## My comments on the development of this book (Mis comentarios sobre el desarrollo de este libro):
-This entire project was worked on in GCP, so the creation of a virtual venv in chapter 6 is missing here, in order to be able to work with Apache Beam.
+This entire project was worked on in GCP, so the creation of a virtual venv in chapter 6 is missing here, in order to be able to work with Apache Beam. In order to be able to work in Composer due to account problems I had to create the environment using Terraform.
   
-Se trabajó todo este proyecto en GCP por lo que aquí falta la creación de un virtual venv en el capítulo 6, para poder trabajar con Apache Beam.
+Se trabajó todo este proyecto en GCP por lo que aquí falta la creación de un virtual venv en el capítulo 6, para poder trabajar con Apache Beam. Para poder trabajar en Composer por problemas de la cuenta tuve que crear el ambiente utilizando Terraform.
   
