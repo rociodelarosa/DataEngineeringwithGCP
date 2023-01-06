@@ -67,3 +67,11 @@ is a strategic cloud data engineer at Google. He holds a bachelor's degree
 in computer science from Binus University and co-founded DataLabs in Indonesia.
 Currently, he dedicates himself to big data and analytics and has spent a good chunk
 of his career helping global companies in different industries.
+
+
+
+
+----------------------------------------------------------------
+<a href="My comments on the development of this book:"></a>
+This entire project was worked on in GCP, so the creation of a virtual venv in chapter 6 is missing here, in order to be able to work with Apache Beam.
+Se trabajó todo este proyecto en GCP por lo que aquí falta la creación de un virtual venv en el capítulo 6, para poder trabajar con Apache Beam.
